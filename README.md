@@ -89,7 +89,7 @@ That should be fairly obvious. You passed 0 tests and failed 3 tests. Not a grea
 This is all three of the fails. If we break it down even further we can see just the test for `name`:
 
 ```
-1) what-is-a-test Name returns "Susan":
+1) what-is-a-test Name returns "Joe":
 
 Error: Expected 'Joe' to equal 'Susan'
 + expected - actual
